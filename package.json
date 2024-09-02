@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@primevue/themes": "^4.0.5",
+    "entities": "^5.0.0",
+    "primevue": "^4.0.5",
+    "vue-router": "^4.4.3"
+  }
+}
