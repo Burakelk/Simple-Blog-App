@@ -124,7 +124,7 @@ export default {
         },
         async DeleteData() {
             try {
-                alert('Delete  içine girdi amkq' + this.DeleteArtId)
+            
                 const response = await axios.delete(`http://localhost:3000/articles/${this.DeleteArtId}`, {
 
 
